@@ -24,6 +24,8 @@ import com.hellogroupassignment.currencyconvertor.dao.Login;
 import com.hellogroupassignment.currencyconvertor.service.CurrenciesService;
 import com.hellogroupassignment.currencyconvertor.service.LoginService;
 
+//Home Controller
+
 @Controller
 public class HomeController {
 	private LoginService loginService;
